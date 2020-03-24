@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\c2-chacha-0.2.3" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\cfg-if-0.1.10" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.67" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.6" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\rand-0.7.3" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_chacha-0.2.1" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_core-0.5.1" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\rand_hc-0.2.0" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.cargo\registry\src\github.com-1ecc6299db9ec823\wasi-0.9.0+wasi-snapshot-preview1" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\andon\.Rider2019.3\system\rust_expanded_macros\hutcYMqO\expansions" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\build_helper" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\liballoc" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libcore" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libpanic_abort" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libpanic_unwind" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libproc_macro" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\librustc_asan" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\librustc_lsan" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\librustc_msan" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\librustc_tsan" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libstd" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libsyntax" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libterm" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libtest" t="IncludeRecursive" />
+    <e p="C:\Users\andon\.rustup\toolchains\stable-x86_64-pc-windows-gnu\lib\rustlib\src\rust\src\libunwind" t="IncludeRecursive" />
+    <e p="C:\Users\andon\Documents\Projects\phenotyp" t="IncludeFlat" />
+  </component>
+</project>
